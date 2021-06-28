@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;}
+    body{
+      background: rgb(109, 109, 197);
+    }
+    .img{
+        display: block;
+        width: 300px;
+        height: 300px;
+        padding: 10px;
+        margin: 0 auto;
+    }
+    .fahim{
+        background-color: rgb(139, 149, 167);
+        width: 60%;
+        margin: 50px 20%;
+        border-radius:10px ;
+        text-align: center;
+        padding: 20px;
+    }
+.frist{
+    width: 170px;
+    height: 30px;
+    padding: 10px;
+}
+.frist:hover{
+color: rgb(57, 16, 207);
+background:rgb(199, 193, 211);
+
+}
+.email{
+    width: 340px;
+    height: 30px;
+    padding: 10px;
+
+}
+.email:hover{
+    color: rgb(57, 16, 207);
+background: rgb(199, 193, 211);
+}
+.button{
+    width:21%;
+    height: 40px;
+}
+.button:hover{
+    color: floralwhite;
+    background: fuchsia;
+
+}

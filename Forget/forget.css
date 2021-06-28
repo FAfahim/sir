@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: orchid;
+}
+.forget-img{
+    display: block;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 0 auto;
+}
+.forget-form{
+    background: palegreen;
+    width: 60%;
+    margin: 50px 20%;
+    text-align: center;
+    border-radius: 10px;
+    padding: 50px;
+}
+.new-pass{
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+}
+.cp{
+    width: 300px;
+    height: 40px;
+    padding: 10px;
+}
+.button{
+    width: 150px;
+    height: 40px;
+}
+.button:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(71, 69, 216);
+
+}
